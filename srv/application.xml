@@ -1,0 +1,6 @@
+<paths>
+    <url>jdbc:mysql://localhost:3306/bookborrow_system</url>
+    <username>root</username>
+    <password>123456</password>
+    <driver>com.mysql.jdbc.Driver</driver>
+</paths>
